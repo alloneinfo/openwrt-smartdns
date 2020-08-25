@@ -3,6 +3,10 @@
 此仓库为smartdns独立仓库，为单独编译使用，可配合luci-app-smartdns一起使用。  
 luci界面：[luci-app-smartdns](https://github.com/pymumu/luci-app-smartdns)
 
+
+## 查看最新版本
+https://github.com/pymumu/smartdns/releases
+
 ## 使用方式
 
 注意：如下命令操作路径为openwrt源代码所在目录。  
